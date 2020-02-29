@@ -6,7 +6,7 @@ using System.Text;
 using System.Reflection;
 using System.Resources;
 
-namespace TaskOne
+namespace FirstTask
 {
     public class UserFile
     {

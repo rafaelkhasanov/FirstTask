@@ -1,4 +1,4 @@
-﻿namespace TaskOne
+﻿namespace FirstTask
 {
     partial class MainForm
     {
